@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/CavalierBlanc.svg</file>
+        <file>images/CavalierNoir.svg</file>
+        <file>images/DameBlanc.svg</file>
+        <file>images/DameNoir.svg</file>
+        <file>images/echiquier.png</file>
+        <file>images/FouBlanc.svg</file>
+        <file>images/FouNoir.svg</file>
+        <file>images/PionBlanc.svg</file>
+        <file>images/PionNoir.svg</file>
+        <file>images/RoiBlanc.svg</file>
+        <file>images/RoiNoir.svg</file>
+        <file>images/TourBlanc.svg</file>
+        <file>images/TourNoir.svg</file>
+        <file>images/Nombres.png</file>
+        <file>images/Lettres.png</file>
+    </qresource>
+</RCC>
